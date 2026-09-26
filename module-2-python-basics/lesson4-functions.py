@@ -1,9 +1,9 @@
 Module 2 — Lesson 4: Functions
-Student: [your name]
-Date: [date]
+Student: Selidio, Bea Bianca        
+Date: 09-26-26
 
 WHAT IS THIS TOPIC?
-→ Explain functions in your own words.
+→ Function is a list of codes in Python where you can code everything at without repeating and call the function whenever you needed it.
 
 KEY VOCABULARY
 → function
@@ -13,7 +13,10 @@ KEY VOCABULARY
 → function call
 
 MY OWN EXAMPLE(S)
-→ Write at least one working Python example.
+→ def say_hello():
+  print("Hello, Friend!")
+ say_hello()
 
 REFLECTION
-→ Explain a mistake you made or something you learned.
+→ My mistake is when i code, i do it repeatedly just to print what i want and to have the output that i want. I have learned that you could reuse code by calling
+them in function.
