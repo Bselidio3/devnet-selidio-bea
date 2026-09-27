@@ -3,7 +3,7 @@ Student: Selidio, Bea Bianca
 Date: 09-26-26
 
 WHAT IS THIS TOPIC?
-→ Function is a list of codes in Python where you can code everything at without repeating and call the function whenever you needed it.
+→ Function is a list of codes or the intructions you input in Python where you can code everything at without repeating and call the function whenever you needed it.
 
 KEY VOCABULARY
 → function
